@@ -1,7 +1,7 @@
 # meuprimeirosite
 Esse é meu primeiro site para o curso da DIO.me
 <!DOCTYPE html>
-Esse é meu primeiro site... By: Thalia Freitas
+By: Thalia Freitas
 
 <head>
 <title> Meu primeirto site</title>
